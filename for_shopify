@@ -13,7 +13,9 @@
 <p>See below for many more photos and <a href="https://booking.nsbrealtyteam.com/336057" target="_blank">click here</a> for a full page booking view.</p>
 
         
-<iframe src="https://booking.nsbrealtyteam.com/336057/" title="Condo Rental Embedded Page" style="width:100%; height:100vh; border:none;"></iframe>
+<div style="overflow: auto; -webkit-overflow-scrolling: touch; transform: scale(1, 0.8); transform-origin: 0 0;">
+    <iframe src="https://booking.nsbrealtyteam.com/336057/" title="Condo Rental Embedded Page" style="width:100%; height:125vh; border:none;"></iframe>
+</div>
 
 
 <p>
